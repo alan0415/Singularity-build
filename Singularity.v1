@@ -1,5 +1,5 @@
 Bootstrap:docker  
-From: alan0415/alan0415/hpc_omp3.1.2_cuda10:2.0
+From: alan0415/hpc_omp3.1.2_cuda10:2.0
 
 apt-get -y install iputils-ping
 apt -y install net-tools
